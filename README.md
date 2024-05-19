@@ -1,4 +1,4 @@
-# Project Responsive Web Design using Bootstrap
+![web](https://github.com/vishwa2005vasu/Pharma/assets/135954202/b7bef455-a35c-4c4c-a79b-80189190984c)# Project Responsive Web Design using Bootstrap
 ## Date:13.05.2024
 
 ## AIM:
@@ -479,11 +479,14 @@ contact.html
 ```
 
 ## OUTPUT:
-![project op1](https://github.com/vishwa2005vasu/Pharma/assets/135954202/b0f2bf48-4d4e-4543-823b-0481415c541d)
-![project op2](https://github.com/vishwa2005vasu/Pharma/assets/135954202/757ba354-e340-4540-b255-a3f77e3c215d)
-![project op3](https://github.com/vishwa2005vasu/Pharma/assets/135954202/1cba0564-fde3-4797-afd4-205b80ae01fb)
-![project op4](https://github.com/vishwa2005vasu/Pharma/assets/135954202/8a055397-df5a-461a-918f-83fe0200b293)
 
+![web](https://github.com/vishwa2005vasu/Pharma/assets/135954202/e2dc1186-cb60-4068-8da3-053db2c6f426)
+
+![WhatsApp Image 2024-05-19 at 19 31 33_b1feb97f](https://github.com/vishwa2005vasu/Pharma/assets/135954202/55ef08fd-0f39-4fe3-a7fd-a950c546b5a4)
+
+![WhatsApp Image 2024-05-19 at 19 31 33_be49238e](https://github.com/vishwa2005vasu/Pharma/assets/135954202/396b2f47-6356-47c9-b4b5-fdc71293ee01)
+
+![WhatsApp Image 2024-05-19 at 19 31 34_42182903](https://github.com/vishwa2005vasu/Pharma/assets/135954202/482ade83-b180-4448-a0ee-dfc85f55d925)
 
 
 
